@@ -1,0 +1,7 @@
+pygame==2.1.0          # For game interface and display
+torch==2.0.1           # For deep learning and neural network operations
+numpy==1.23.5          # For numerical operations and matrix handling
+matplotlib==3.7.1      # For visualizing training results
+
+
+pip install -r requirements.txt   #This file will allow users to easily set up the required environment by running the command:
